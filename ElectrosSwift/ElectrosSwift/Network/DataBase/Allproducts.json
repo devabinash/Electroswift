@@ -1,0 +1,108 @@
+{
+    "categories": [
+        {
+            "title": "Best Sellers",
+            "items": [
+                {
+                    "identifier": "3d6bc1aa-a25e-4f26-910e-9a43e29ae174",
+                    "itemName": "Samsung - Galaxy Z Fold 3",
+                    "cost": 1799,
+                    "details": "Galaxy Z Fold 3 5G. Unfold a world of possibilities with a large, immersive display. Multitask, game, and watch videos like never before. It’s the smartphone of the future, today.",
+                    "imageNames": ["galaxyZFold"],
+                    "isFavorite": false,
+                    "availableColors": ["#000000"]
+                },
+                {
+                    "identifier": "d785149b-9124-47ee-9b75-474c0e57f180",
+                    "itemName": "Microsoft - Surface Laptop 4",
+                    "cost": 1299,
+                    "details": "The Surface Laptop 4 features the perfect balance of performance and style. It’s ultrathin, lightweight, and has all-day battery life. Powered by Intel Core processors, it’s built to handle everything you need.",
+                    "imageNames": ["surfaceLaptop4"],
+                    "isFavorite": false,
+                    "availableColors": ["#000000"]
+                },
+                {
+                    "identifier": "c52edfaa-fde5-456e-95dd-fcfa95329dc4",
+                    "itemName": "Bose - QuietComfort 45",
+                    "cost": 329,
+                    "details": "QuietComfort 45 headphones are the perfect balance of quiet, comfort, and sound. With world-class noise cancelling and high-fidelity audio, these are the headphones you’ll never want to take off.",
+                    "imageNames": ["boseQC45"],
+                    "isFavorite": false,
+                    "availableColors": ["#000000"]
+                },
+                {
+                    "identifier": "961a425c-3ad7-487c-869b-9492369fb38d",
+                    "itemName": "Sony - Bravia XR OLED",
+                    "cost": 1999,
+                    "details": "Sony Bravia XR OLED 55-inch 4K Ultra HD Smart TV delivers breathtaking color and contrast for the ultimate viewing experience. With Google TV, you can browse through hundreds of apps and watch anything you want.",
+                    "imageNames": ["sonyBravia"],
+                    "isFavorite": false,
+                    "availableColors": ["#000000"]
+                }
+            ]
+        },
+        {
+            "title": "Recently Viewed",
+            "items": []
+        },
+        {
+            "title": "Explore",
+            "items": [
+                {
+                    "identifier": "f605621c-c9aa-497d-bcfd-d7a8f13e4501",
+                    "itemName": "Dell - XPS 13",
+                    "cost": 999,
+                    "details": "The XPS 13 laptop features a 13.4-inch InfinityEdge display, powerful Intel Core processors, and an ultra-sleek design, making it the ultimate ultraportable laptop.",
+                    "imageNames": ["dellXPS13"],
+                    "isFavorite": false,
+                    "availableColors": ["#000000"]
+                },
+                {
+                    "identifier": "ff19822e-5dab-45d9-af8f-67d7f0046b5e",
+                    "itemName": "Apple - iPhone SE (3rd Gen)",
+                    "cost": 429,
+                    "details": "iPhone SE (3rd Gen) combines the powerful A15 Bionic chip, a compact 4.7-inch display, and 5G capabilities in an affordable package. The perfect iPhone for everyday use.",
+                    "imageNames": ["iphoneSE3"],
+                    "isFavorite": false,
+                    "availableColors": ["#000000"]
+                },
+                {
+                    "identifier": "9d0c7170-6248-48ab-a994-9b4701531dd2",
+                    "itemName": "LG - Gram 17",
+                    "cost": 1499,
+                    "details": "LG Gram 17 is a lightweight, powerful laptop with a 17-inch WQXGA display, Intel Core processors, and all-day battery life. Perfect for productivity on the go.",
+                    "imageNames": ["lgGram17"],
+                    "isFavorite": false,
+                    "availableColors": ["#000000"]
+                },
+                {
+                    "identifier": "bd67a7f9-e316-41ff-a5f5-70c0cb85c146",
+                    "itemName": "Canon - EOS R5",
+                    "cost": 3899,
+                    "details": "Canon EOS R5 is a full-frame mirrorless camera that offers 45MP resolution, 8K video recording, and up to 20 fps continuous shooting. Ideal for professional photographers and videographers.",
+                    "imageNames": ["canonEOSR5"],
+                    "isFavorite": false,
+                    "availableColors": ["#000000"]
+                },
+                {
+                    "identifier": "dbe06b0a-95c3-42e2-a1aa-c6d008be5c55",
+                    "itemName": "Nintendo - Switch OLED",
+                    "cost": 349,
+                    "details": "The Nintendo Switch OLED model features a vibrant 7-inch OLED display, enhanced audio, and 64GB of internal storage. Play in handheld, tabletop, or docked mode for an immersive gaming experience.",
+                    "imageNames": ["switchOLED"],
+                    "isFavorite": false,
+                    "availableColors": ["#000000"]
+                },
+                {
+                    "identifier": "aa394b5f-c71c-4345-93a6-b81dff31227d",
+                    "itemName": "Asus - ROG Zephyrus G14",
+                    "cost": 1599,
+                    "details": "Asus ROG Zephyrus G14 is a gaming laptop featuring an AMD Ryzen 9 processor, Nvidia RTX 3060 graphics, and a 14-inch QHD display. Built for serious gaming and content creation.",
+                    "imageNames": ["rogZephyrus"],
+                    "isFavorite": false,
+                    "availableColors": ["#000000"]
+                }
+            ]
+        }
+    ]
+}
